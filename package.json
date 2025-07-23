@@ -1,5 +1,5 @@
 {
-  "name": "node-api-template",
+  "name": "node-movies-api",
   "version": "1.0.0",
   "description": "```bash mkdir mi-proyecto-ts cd mi-proyecto-ts ```",
   "main": "index.js",
